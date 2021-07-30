@@ -1,0 +1,143 @@
+19:36:21:844 (00003500) > [Startup] Shadow of the Tomb Raider
+19:36:21:844 (00003500) > [Startup] ==============
+19:36:21:844 (00003500) > [Startup] 
+19:36:21:844 (00003500) > [Startup] Build: v1.0 build 237.6_64
+19:36:21:844 (00003500) > [Startup] Windows 10.0 (build 22000)
+19:36:21:844 (00003500) > [Startup] Game directory: C:\Users\harik\Documents\Shadow of the Tomb Raider\
+19:36:21:844 (00003500) > [Startup] 
+19:36:21:844 (00003500) > [Startup] Memory statistics:
+19:36:21:844 (00003500) > [Startup]   Total RAM = 15.8 GB (16223 MB)
+19:36:21:844 (00003500) > [Startup]   Avail RAM = 10.2 GB (10427 MB)
+19:36:21:844 (00003500) > [Startup]   Total virtual memory = 131072.0 GB (134217727 MB)
+19:36:21:844 (00003500) > [Startup]   Avail virtual memory = 131064.5 GB (134210095 MB)
+19:36:21:844 (00003500) > [Startup] 
+19:36:21:844 (00003500) > [NxApp] PreInit
+19:36:21:844 (00003500) > [Steam] Initializing.
+19:36:21:844 (00003500) > [Steam] Successfully initialized.
+19:36:21:844 (00003500) > [SwapChain] Initializing...
+19:36:21:844 (00003500) > [DXGI] Initializing...
+19:36:21:850 (00003500) > [DXGI] Created DXGIFactory1
+19:36:21:850 (00003500) > [DXGI] Successfully initialized.
+19:36:21:850 (00003500) > [Render] Enumerating adapters:
+19:36:21:850 (00003500) > [Render] 	Adapter 0:
+19:36:21:850 (00003500) > [Monitor] 		Description             : NVIDIA GeForce RTX 2060
+19:36:21:850 (00003500) > [Monitor] 		Vendor                  : nVidia (10de)
+19:36:21:850 (00003500) > [Monitor] 		Device                  : 1f11
+19:36:21:850 (00003500) > [Monitor] 		Sub system              : 13431025
+19:36:21:850 (00003500) > [Monitor] 		Revision                : 161
+19:36:21:850 (00003500) > [Monitor] 		Dedicated Video Memory  : 5980 MB
+19:36:21:850 (00003500) > [Monitor] 		Dedicated System Memory : 0000 MB
+19:36:21:850 (00003500) > [Monitor] 		Shared System Memory    : 8111 MB
+19:36:21:850 (00003500) > [Monitor] 
+19:36:21:850 (00003500) > [Render] Loading NVAPI...
+19:36:21:856 (00003500) > [Render] NVidia 3D Vision NvAPI_Stereo_IsEnabled error.
+19:36:21:856 (00003500) > [Render] Done loading NVAPI
+19:36:21:856 (00003500) > [Render] 	Adapter 1:
+19:36:21:856 (00003500) > [Monitor] 		Description             : Intel(R) UHD Graphics 630
+19:36:21:856 (00003500) > [Monitor] 		Vendor                  : Intel (8086)
+19:36:21:856 (00003500) > [Monitor] 		Device                  : 3e9b
+19:36:21:856 (00003500) > [Monitor] 		Sub system              : 13431025
+19:36:21:856 (00003500) > [Monitor] 		Revision                : 0
+19:36:21:856 (00003500) > [Monitor] 		Dedicated Video Memory  : 0128 MB
+19:36:21:856 (00003500) > [Monitor] 		Dedicated System Memory : 0000 MB
+19:36:21:856 (00003500) > [Monitor] 		Shared System Memory    : 8111 MB
+19:36:21:856 (00003500) > [Monitor] 
+19:36:21:856 (00003500) > [Render] 	Adapter 2:
+19:36:21:856 (00003500) > [Monitor] 		Description             : Intel(R) UHD Graphics 630
+19:36:21:856 (00003500) > [Monitor] 		Vendor                  : Intel (8086)
+19:36:21:856 (00003500) > [Monitor] 		Device                  : 3e9b
+19:36:21:856 (00003500) > [Monitor] 		Sub system              : 13431025
+19:36:21:856 (00003500) > [Monitor] 		Revision                : 0
+19:36:21:856 (00003500) > [Monitor] 		Dedicated Video Memory  : 0128 MB
+19:36:21:856 (00003500) > [Monitor] 		Dedicated System Memory : 0000 MB
+19:36:21:856 (00003500) > [Monitor] 		Shared System Memory    : 8111 MB
+19:36:21:856 (00003500) > [Monitor] 
+19:36:21:856 (00003500) > [Render] 	Adapter 3:
+19:36:21:856 (00003500) > [Monitor] 		Description             : Microsoft Basic Render Driver
+19:36:21:856 (00003500) > [Monitor] 		Vendor                  : Unknown (1414)
+19:36:21:856 (00003500) > [Monitor] 		Device                  : 8c
+19:36:21:856 (00003500) > [Monitor] 		Sub system              : 0
+19:36:21:856 (00003500) > [Monitor] 		Revision                : 0
+19:36:21:856 (00003500) > [Monitor] 		Dedicated Video Memory  : 0000 MB
+19:36:21:856 (00003500) > [Monitor] 		Dedicated System Memory : 0000 MB
+19:36:21:856 (00003500) > [Monitor] 		Shared System Memory    : 8111 MB
+19:36:21:856 (00003500) > [Monitor] 
+19:36:21:856 (00003500) > [Render] Enumerating monitors:
+19:36:21:856 (00003500) > [Render] 	Monitor 0: handle = 0000000000010001, aspect = 1.78
+19:36:21:856 (00003500) > [Render] 
+19:36:23:084 (00003500) > [Render] NVidia 3D Vision NvAPI_Stereo_SetDriverMode error.
+19:36:23:084 (00003500) > [Render] NVidia 3D Vision is not enabled.
+19:36:23:084 (00003500) > [Render] Enumerating Display Modes:
+19:36:23:084 (00003500) > [Render] Querying NVAPI for Surround modes
+19:36:23:084 (00003500) > [Render] NvAPI_DISP_GetGDIPrimaryDisplayId returned NVAPI_NVIDIA_DEVICE_NOT_FOUND (fffffffa)
+
+19:36:23:084 (00003500) > [Render] 	Monitor '1 (NVIDIA GeForce RTX 2060(1))' (0000000000010001):
+19:36:23:084 (00003500) > [Render] 		- Mode  0 :  800 x  600 @  60 Hz, stereo = 0, hdr = 0
+19:36:23:084 (00003500) > [Render] 		- Mode  1 :  800 x  600 @  75 Hz, stereo = 0, hdr = 0
+19:36:23:084 (00003500) > [Render] 		- Mode  2 : 1024 x  768 @  60 Hz, stereo = 0, hdr = 0
+19:36:23:084 (00003500) > [Render] 		- Mode  3 : 1024 x  768 @  75 Hz, stereo = 0, hdr = 0
+19:36:23:084 (00003500) > [Render] 		- Mode  4 : 1152 x  864 @  75 Hz, stereo = 0, hdr = 0
+19:36:23:084 (00003500) > [Render] 		- Mode  5 : 1280 x  720 @  50 Hz, stereo = 0, hdr = 0
+19:36:23:084 (00003500) > [Render] 		- Mode  6 : 1280 x  720 @  60 Hz, stereo = 0, hdr = 0
+19:36:23:084 (00003500) > [Render] 		- Mode  7 : 1280 x 1024 @  60 Hz, stereo = 0, hdr = 0
+19:36:23:084 (00003500) > [Render] 		- Mode  8 : 1280 x 1024 @  75 Hz, stereo = 0, hdr = 0
+19:36:23:084 (00003500) > [Render] 		- Mode  9 : 1600 x  900 @  60 Hz, stereo = 0, hdr = 0
+19:36:23:084 (00003500) > [Render] 		- Mode 10 : 1920 x 1080 @  50 Hz, stereo = 0, hdr = 0
+19:36:23:084 (00003500) > [Render] 		- Mode 11 : 1920 x 1080 @  60 Hz, stereo = 0, hdr = 0
+19:36:23:084 (00003500) > [Render] ***** Additional Monitor Output Info *****
+19:36:23:084 (00003500) > [Render] 		BitsPerColor: 8
+19:36:23:084 (00003500) > [Render] 		Primaries: R=0.6396;0.3301  G=0.2998;0.5996  B=0.1494;0.0596  White-Point=0.3125;0.3291
+19:36:23:084 (00003500) > [Render] 		HDR: No (Color Space: DXGI_COLOR_SPACE_RGB_FULL_G22_NONE_P709)
+19:36:23:084 (00003500) > [Render] 		Luminance: Min=0.5000 Max=270.0000 MaxFullFrame=270.0000
+19:36:23:084 (00003500) > [Render] ******************************************
+19:36:23:084 (00003500) > [Render] 
+19:36:23:084 (00003500) > [SwapChain] Successfully initialized.
+19:36:23:084 (00003500) > [NxApp] PreInit successful.
+19:36:23:084 (00003500) > [Main] Current directory: C:\Games\Shadow of the Tomb Raider
+19:36:23:084 (00003500) > [Main] Working directory: C:\Games\Shadow of the Tomb Raider
+19:36:23:084 (00003500) > [SKU] Activating WWW SKU
+19:36:23:086 (00003500) > [MultiCore] CPU count: logical = 12
+19:36:23:449 (00003500) > [Main] Steam Language: 'english'
+19:36:23:449 (00003500) > [Main] Settings: Text Language: 'en-us' | VO Language: 'en-us' | Steam Game Language 'en-us'
+19:36:23:449 (00003500) > [Main] Using: Text Language: 'en-us' | VO Language: 'en-us'
+19:36:23:808 (00003500) > [Validate Settings] Monitor #0
+19:36:23:808 (00003500) > [Validate Settings] Desktop settings (Resolution: 1920 x 1080, Refresh rate: 60hz, Multi-monitor: off, Bezel correction: off)
+19:36:23:808 (00003500) > [NxApp] Querying GPU Driver Info...
+19:36:23:808 (00003500) > [NxApp] Enumerating available display adapters:
+19:36:23:813 (00003500) > [NxApp] 		Intel(R) UHD Graphics 630
+19:36:23:826 (00003500) > [NxApp] 		NVIDIA GeForce RTX 2060 (active)
+19:36:23:826 (00003500) > [NxApp] Successfully found GPU Driver Info
+19:36:50:640 (00003500) > [Validate Settings] Monitor #0
+19:36:50:641 (00003500) > [Validate Settings] Desktop settings (Resolution: 1920 x 1080, Refresh rate: 60hz, Multi-monitor: off, Bezel correction: off)
+19:36:50:642 (00003500) > [Validate Settings] Monitor #0
+19:36:50:642 (00003500) > [Validate Settings] Desktop settings (Resolution: 1920 x 1080, Refresh rate: 60hz, Multi-monitor: off, Bezel correction: off)
+19:36:50:643 (00003500) > [Validate Settings] Monitor #0
+19:36:50:643 (00003500) > [Validate Settings] Desktop settings (Resolution: 1920 x 1080, Refresh rate: 60hz, Multi-monitor: off, Bezel correction: off)
+19:36:50:644 (00003500) > [Validate Settings] Monitor #0
+19:36:50:644 (00003500) > [Validate Settings] Desktop settings (Resolution: 1920 x 1080, Refresh rate: 60hz, Multi-monitor: off, Bezel correction: off)
+19:36:50:649 (00003500) > [Validate Settings] Monitor #0
+19:36:50:649 (00003500) > [Validate Settings] Desktop settings (Resolution: 1920 x 1080, Refresh rate: 60hz, Multi-monitor: off, Bezel correction: off)
+19:36:50:650 (00003500) > [Validate Settings] Monitor #0
+19:36:50:650 (00003500) > [Validate Settings] Desktop settings (Resolution: 1920 x 1080, Refresh rate: 60hz, Multi-monitor: off, Bezel correction: off)
+19:36:50:651 (00003500) > [Validate Settings] Monitor #0
+19:36:50:651 (00003500) > [Validate Settings] Desktop settings (Resolution: 1920 x 1080, Refresh rate: 60hz, Multi-monitor: off, Bezel correction: off)
+19:36:50:652 (00003500) > [Validate Settings] Monitor #0
+19:36:50:652 (00003500) > [Validate Settings] Desktop settings (Resolution: 1920 x 1080, Refresh rate: 60hz, Multi-monitor: off, Bezel correction: off)
+19:36:50:653 (00003500) > [Validate Settings] Monitor #0
+19:36:50:653 (00003500) > [Validate Settings] Desktop settings (Resolution: 1920 x 1080, Refresh rate: 60hz, Multi-monitor: off, Bezel correction: off)
+19:36:50:657 (00003500) > [Validate Settings] Monitor #0
+19:36:50:657 (00003500) > [Validate Settings] Desktop settings (Resolution: 1920 x 1080, Refresh rate: 60hz, Multi-monitor: off, Bezel correction: off)
+19:36:50:658 (00003500) > [Validate Settings] Monitor #0
+19:36:50:658 (00003500) > [Validate Settings] Desktop settings (Resolution: 1920 x 1080, Refresh rate: 60hz, Multi-monitor: off, Bezel correction: off)
+19:36:50:659 (00003500) > [Validate Settings] Monitor #0
+19:36:50:659 (00003500) > [Validate Settings] Desktop settings (Resolution: 1920 x 1080, Refresh rate: 60hz, Multi-monitor: off, Bezel correction: off)
+19:36:50:660 (00003500) > [Validate Settings] Monitor #0
+19:36:50:660 (00003500) > [Validate Settings] Desktop settings (Resolution: 1920 x 1080, Refresh rate: 60hz, Multi-monitor: off, Bezel correction: off)
+19:36:50:660 (00003500) > [Validate Settings] Monitor #0
+19:36:50:660 (00003500) > [Validate Settings] Desktop settings (Resolution: 1920 x 1080, Refresh rate: 60hz, Multi-monitor: off, Bezel correction: off)
+19:36:50:660 (00003500) > [Validate Settings] Monitor #0
+19:36:50:660 (00003500) > [Validate Settings] Desktop settings (Resolution: 1920 x 1080, Refresh rate: 60hz, Multi-monitor: off, Bezel correction: off)
+19:36:50:660 (00003500) > [Validate Settings] Monitor #0
+19:36:50:660 (00003500) > [Validate Settings] Desktop settings (Resolution: 1920 x 1080, Refresh rate: 60hz, Multi-monitor: off, Bezel correction: off)
+19:36:50:660 (00003500) > [Validate Settings] Monitor #0
+19:36:50:660 (00003500) > [Validate Settings] Desktop settings (Resolution: 1920 x 1080, Refresh rate: 60hz, Multi-monitor: off, Bezel correction: off)
